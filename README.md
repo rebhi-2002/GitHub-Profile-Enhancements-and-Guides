@@ -1,8 +1,3 @@
-<!--
-# GitHub-Profile-Enhancements-and-Guides
-A repository containing a collection of guides and tools to enhance your personal GitHub profile using Markdown formatting and other extensions.
--->
-
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
@@ -124,3 +119,8 @@ A repository containing a collection of guides and tools to enhance your persona
 ![Version](https://img.shields.io/badge/Version-1.0-4169E1?style=plastic) <br />
 
 [![Back to top](https://img.shields.io/badge/Back_to_Top-%E2%86%91-2F4F4F?style=plastic)](#top) <br />
+
+<!--
+# GitHub-Profile-Enhancements-and-Guides
+A repository containing a collection of guides and tools to enhance your personal GitHub profile using Markdown formatting and other extensions.
+-->
